@@ -1,8 +1,8 @@
-site_name: Test Docs
+site_name: Hauppauge Docs
 theme:
   name: material
 nav:
     - Home: index.md
-    - About: about.md  
-    - Software: application.md
+    - WinTV10: wintv10.md  
+    - Hauppauge Capture: hauppauge_capture.md
 
