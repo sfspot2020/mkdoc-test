@@ -1,8 +1,20 @@
 site_name: Hauppauge Docs
 theme:
   name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 nav:
     - Home: index.md
     - WinTV10: wintv10.md  
     - Hauppauge Capture: hauppauge_capture.md
+
+copyright: Copyright &copy; 2022 HCW Distributing Corp.
+
 
